@@ -11,5 +11,10 @@
       "sizes": "any",
       "type": "image/svg+xml"
     }
-  ]
+  ],
+  "lang": "en",
+  "orientation": "any",
+  "scope": "/",
+  "description": "Professional geotechnical services in Mackay, Australia. Soil studies, testing and technical consulting.",
+  "id": "/mackay-8373"
 }
